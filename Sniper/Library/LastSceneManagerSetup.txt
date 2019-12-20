@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/ProtoypeScene (Brock McNerney's conflicted copy 2017-11-22).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

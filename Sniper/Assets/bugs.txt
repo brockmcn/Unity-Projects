@@ -1,0 +1,8 @@
+- Police Pistol seems to block its view
+- civilians dont notify the police when they see someone with a gun
+- bullet holes have a collider that stops the player from moving when shot
+- all ai dont follow basic road rules (we can just not have navmeshes on the road)
+- police dont really turn their body/heads when looking for people (really hard to do but one way could be every 3 seconds when they are looking around mode they just randomly turn meaning youll have to adjust the field of view)
+- hip firing is still possible. (change values)
+- police guns always pointing at player, should only point at player when they are firing i guess.
+- police weapon can be seen through other players

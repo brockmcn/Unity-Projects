@@ -1,0 +1,12 @@
+WASD - Movement
+Shift - Sprint
+Space - Jump
+Tab - Hold Breath
+R - Reload
+T - Target
+P - Play Music
+I - Information
+F - Flashlight
+G - Watch
+H - Skip Time
+E - Interact
