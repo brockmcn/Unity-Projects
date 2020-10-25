@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FE2BCE44-FB3C-C091-A455-C0FF5677DA42}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RoomSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RoomTemplates.cs" Line="37" Column="112" />
+      <File FileName="Assets/Scripts/RoomSpawner.cs" Line="81" Column="65" />
+      <File FileName="Assets/Scripts/Checker.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="213" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Procedural" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="OldStuff" expanded="True" />
+                <Node name="RoomSpawner.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="55fbf634-aa4d-4fb4-b660-c5ab0810243a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

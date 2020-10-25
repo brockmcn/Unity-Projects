@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Scripts/OldStuff/Checker.cs
+    - Assets/Scripts/OldStuff/Checker.cs.meta
+    - Assets/Scripts/OldStuff/Destroyer.cs
+    - Assets/Scripts/OldStuff/Destroyer.cs.meta
+    - Assets/Scripts/PlayerController.cs
+    - Assets/Scripts/RoomSpawner.cs
+    - Assets/Scripts/RoomTemplates.cs
+    - Assets/Sprites/Khevan Room/Prefab Rooms/Room 1.prefab
+    - Assets/Sprites/Khevan Room/Prefab Rooms/Room 2.prefab
+    - Assets/Sprites/Khevan Room/Prefab Rooms/Room 3.prefab
+    - Assets/Sprites/Khevan Room/Prefab Rooms/Room 4.prefab
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 00000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
